@@ -33,3 +33,7 @@
 -рассчитать относительные значения.
 4. Свести данные за 2017-2018 гг. Данные по году должны быть в столбце, финансовые факторы — в строках.
 5. Добавить возможность смотреть данные по каждому месяцу.
+6. Создайте дашборд, в котором сравниваются финансовые показатели за июль 2017 и 2018 годов.
+
+  https://app.powerbi.com/reportEmbed?reportId=b48b9112-b99f-4785-9a8a-78efa9323d4c&autoAuth=true&ctid=6a4dee01-c3f5-4d4b-bdd2-9e1f1482ac5d&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtZXVyb3BlLWQtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D
+
